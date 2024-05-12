@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "nombre": "Camión 1",
+        "almacen": "Almacén Central",
+        "conductor": "Juan Pérez"
+    },
+    {
+        "id": 2,
+        "nombre": "Furgoneta 2",
+        "almacen": "Almacén Norte",
+        "conductor": "Ana García"
+    },
+    {
+        "id": 3,
+        "nombre": "Camión 3",
+        "almacen": "Almacén Sur",
+        "conductor": "Carlos Jiménez"
+    },
+    {
+        "id": 4,
+        "nombre": "Camión 4",
+        "almacen": "Almacén Este",
+        "conductor": "Lucía Fernández"
+    },
+    {
+        "id": 5,
+        "nombre": "Furgoneta 5",
+        "almacen": "Almacén Oeste",
+        "conductor": "Pedro Sánchez"
+    },
+    {
+        "id": 6,
+        "nombre": "Camión 6",
+        "almacen": "Almacén Central",
+        "conductor": "María López"
+    },
+    {
+        "id": 7,
+        "nombre": "Furgoneta 7",
+        "almacen": "Almacén Norte",
+        "conductor": "Luis Martínez"
+    },
+    {
+        "id": 8,
+        "nombre": "Camión 8",
+        "almacen": "Almacén Sur",
+        "conductor": "Clara Gómez"
+    },
+    {
+        "id": 9,
+        "nombre": "Camión 9",
+        "almacen": "Almacén Este",
+        "conductor": "Miguel Torres"
+    },
+    {
+        "id": 10,
+        "nombre": "Furgoneta 10",
+        "almacen": "Almacén Oeste",
+        "conductor": "Elena Hernández"
+    },
+    {
+        "id": 11,
+        "nombre": "Camión 11",
+        "almacen": "Almacén Central",
+        "conductor": "Rubén Castro"
+    },
+    {
+        "id": 12,
+        "nombre": "Furgoneta 12",
+        "almacen": "Almacén Norte",
+        "conductor": "Sofía Romero"
+    },
+    {
+        "id": 13,
+        "nombre": "Camión 13",
+        "almacen": "Almacén Sur",
+        "conductor": "Pablo Ortiz"
+    },
+    {
+        "id": 14,
+        "nombre": "Camión 14",
+        "almacen": "Almacén Este",
+        "conductor": "Lorena Navarro"
+    },
+    {
+        "id": 15,
+        "nombre": "Furgoneta 15",
+        "almacen": "Almacén Oeste",
+        "conductor": "David Álvarez"
+    }
+]

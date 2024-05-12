@@ -1,0 +1,703 @@
+[
+    {
+        "id": 1,
+        "nombre": "Richard Mancilla",
+        "email": "richard@gmail.com",
+        "roles": ["Administrador", "Conductor"],
+        "asignado": "Hyundai Ioniq"
+    },
+    {
+        "id": 2,
+        "nombre": "Laura Rodríguez",
+        "email": "laura.rodriguez@example.com",
+        "roles": ["Administrador"],
+        "asignado": ""
+    },
+    {
+        "id": 3,
+        "nombre": "Andrés Morales",
+        "email": "andres.morales@example.com",
+        "roles": ["Conductor"],
+        "asignado": "Toyota Prius"
+    },
+    {
+        "id": 4,
+        "nombre": "Carla Gómez",
+        "email": "carla.gomez@example.com",
+        "roles": ["Conductor"],
+        "asignado": "Nissan Leaf"
+    },
+    {
+        "id": 5,
+        "nombre": "Carlos Fernández",
+        "email": "carlos.fernandez@example.com",
+        "roles": ["Administrador"],
+        "asignado": ""
+    },
+    {
+        "id": 6,
+        "nombre": "Isabella Ríos",
+        "email": "isabella.rios@example.com",
+        "roles": ["Conductor"],
+        "asignado": "Ford Focus"
+    },
+    {
+        "id": 7,
+        "nombre": "Daniel Castillo",
+        "email": "daniel.castillo@example.com",
+        "roles": ["Administrador"],
+        "asignado": ""
+    },
+    {
+        "id": 8,
+        "nombre": "Paula Rivera",
+        "email": "paula.rivera@example.com",
+        "roles": ["Conductor"],
+        "asignado": "Chevrolet Bolt"
+    },
+    {
+        "id": 9,
+        "nombre": "Luis Herrera",
+        "email": "luis.herrera@example.com",
+        "roles": ["Administrador"],
+        "asignado": ""
+    },
+    {
+        "id": 10,
+        "nombre": "Sofía Pérez",
+        "email": "sofia.perez@example.com",
+        "roles": ["Administrador", "Conductor"],
+        "asignado": "Tesla Model 3"
+    },
+    {
+        "id": 11,
+        "nombre": "Manuel Salazar",
+        "email": "manuel.salazar@example.com",
+        "roles": ["Administrador"],
+        "asignado": ""
+    },
+    {
+        "id": 12,
+        "nombre": "Claudia Castro",
+        "email": "claudia.castro@example.com",
+        "roles": ["Conductor"],
+        "asignado": "Volkswagen e-Golf"
+    },
+    {
+        "id": 13,
+        "nombre": "Javier Mendoza",
+        "email": "javier.mendoza@example.com",
+        "roles": ["Administrador"],
+        "asignado": ""
+    },
+    {
+        "id": 14,
+        "nombre": "Valeria Domínguez",
+        "email": "valeria.dominguez@example.com",
+        "roles": ["Conductor"],
+        "asignado": "Chevrolet Volt"
+    },
+    {
+        "id": 15,
+        "nombre": "Roberto García",
+        "email": "roberto.garcia@example.com",
+        "roles": ["Administrador"],
+        "asignado": ""
+    },
+    {
+        "id": 16,
+        "nombre": "Mariana Flores",
+        "email": "mariana.flores@example.com",
+        "roles": ["Administrador", "Conductor"],
+        "asignado": "Hyundai Kona"
+    },
+    {
+        "id": 17,
+        "nombre": "Pedro Ruiz",
+        "email": "pedro.ruiz@example.com",
+        "roles": ["Administrador"],
+        "asignado": ""
+    },
+    {
+        "id": 18,
+        "nombre": "Gabriela Morales",
+        "email": "gabriela.morales@example.com",
+        "roles": ["Conductor"],
+        "asignado": "BMW i3"
+    },
+    {
+        "id": 19,
+        "nombre": "Alberto González",
+        "email": "alberto.gonzalez@example.com",
+        "roles": ["Administrador"],
+        "asignado": ""
+    },
+    {
+        "id": 20,
+        "nombre": "Natalia Gómez",
+        "email": "natalia.gomez@example.com",
+        "roles": ["Conductor"],
+        "asignado": "Ford C-Max"
+    },
+    {
+        "id": 21,
+        "nombre": "Carlos Sánchez",
+        "email": "carlos.sanchez@example.com",
+        "roles": ["Administrador"],
+        "asignado": ""
+    },
+    {
+        "id": 22,
+        "nombre": "María Torres",
+        "email": "maria.torres@example.com",
+        "roles": ["Conductor"],
+        "asignado": "Kia Niro"
+    },
+    {
+        "id": 23,
+        "nombre": "Diego Rojas",
+        "email": "diego.rojas@example.com",
+        "roles": ["Administrador"],
+        "asignado": ""
+    },
+    {
+        "id": 24,
+        "nombre": "Alicia Ruiz",
+        "email": "alicia.ruiz@example.com",
+        "roles": ["Conductor"],
+        "asignado": ""
+    },
+    {
+        "id": 25,
+        "nombre": "David Morales",
+        "email": "david.morales@example.com",
+        "roles": ["Administrador"],
+        "asignado": ""
+    },
+    {
+        "id": 26,
+        "nombre": "Mónica Flores",
+        "email": "monica.flores@example.com",
+        "roles": ["Conductor"],
+        "asignado": "Ford Escape"
+    },
+    {
+        "id": 27,
+        "nombre": "Santiago Fernández",
+        "email": "santiago.fernandez@example.com",
+        "roles": ["Administrador"],
+        "asignado": ""
+    },
+    {
+        "id": 28,
+        "nombre": "Lucía Pérez",
+        "email": "lucia.perez@example.com",
+        "roles": ["Conductor"],
+        "asignado": "Toyota Camry"
+    },
+    {
+        "id": 29,
+        "nombre": "Alejandro Torres",
+        "email": "alejandro.torres@example.com",
+        "roles": ["Administrador"],
+        "asignado": ""
+    },
+    {
+        "id": 30,
+        "nombre": "Daniela García",
+        "email": "daniela.garcia@example.com",
+        "roles": ["Administrador", "Conductor"],
+        "asignado": "Mazda CX-5"
+    },
+    {
+        "id": 31,
+        "nombre": "José Rivera",
+        "email": "jose.rivera@example.com",
+        "roles": ["Administrador"],
+        "asignado": ""
+    },
+    {
+        "id": 32,
+        "nombre": "Fernanda Ramos",
+        "email": "fernanda.ramos@example.com",
+        "roles": ["Conductor"],
+        "asignado": "Subaru Forester"
+    },
+    {
+        "id": 33,
+        "nombre": "Juan Martínez",
+        "email": "juan.martinez@example.com",
+        "roles": ["Administrador"],
+        "asignado": ""
+    },
+    {
+        "id": 34,
+        "nombre": "Ana Rodríguez",
+        "email": "ana.rodriguez@example.com",
+        "roles": ["Conductor"],
+        "asignado": "Chevrolet Malibu"
+    },
+    {
+        "id": 35,
+        "nombre": "Pablo Sánchez",
+        "email": "pablo.sanchez@example.com",
+        "roles": ["Administrador"],
+        "asignado": ""
+    },
+    {
+        "id": 36,
+        "nombre": "Verónica Hernández",
+        "email": "veronica.hernandez@example.com",
+        "roles": ["Conductor"],
+        "asignado": "Ford Fusion"
+    },
+    {
+        "id": 37,
+        "nombre": "Rafael Castillo",
+        "email": "rafael.castillo@example.com",
+        "roles": ["Administrador"],
+        "asignado": ""
+    },
+    {
+        "id": 38,
+        "nombre": "Alejandra Ruiz",
+        "email": "alejandra.ruiz@example.com",
+        "roles": ["Administrador", "Conductor"],
+        "asignado": "Jeep Wrangler"
+    },
+    {
+        "id": 39,
+        "nombre": "Victor Vargas",
+        "email": "victor.vargas@example.com",
+        "roles": ["Administrador"],
+        "asignado": ""
+    },
+    {
+        "id": 40,
+        "nombre": "Daniel Rojas",
+        "email": "daniel.rojas@example.com",
+        "roles": ["Conductor"],
+        "asignado": ""
+    },
+    {
+        "id": 41,
+        "nombre": "Cristina Salazar",
+        "email": "cristina.salazar@example.com",
+        "roles": ["Conductor"],
+        "asignado": "Nissan Rogue"
+    },
+    {
+        "id": 42,
+        "nombre": "Carlos Gómez",
+        "email": "carlos.gomez@example.com",
+        "roles": ["Administrador"],
+        "asignado": ""
+    },
+    {
+        "id": 43,
+        "nombre": "Ana Pérez",
+        "email": "ana.perez@example.com",
+        "roles": ["Conductor"],
+        "asignado": "Toyota Rav4"
+    },
+    {
+        "id": 44,
+        "nombre": "Javier Torres",
+        "email": "javier.torres@example.com",
+        "roles": ["Administrador"],
+        "asignado": ""
+    },
+    {
+        "id": 45,
+        "nombre": "Luisa Morales",
+        "email": "luisa.morales@example.com",
+        "roles": ["Conductor"],
+        "asignado": "Honda CR-V"
+    },
+    {
+        "id": 46,
+        "nombre": "José Gómez",
+        "email": "jose.gomez@example.com",
+        "roles": ["Administrador"],
+        "asignado": ""
+    },
+    {
+        "id": 47,
+        "nombre": "María Sánchez",
+        "email": "maria.sanchez@example.com",
+        "roles": ["Conductor"],
+        "asignado": "Toyota Sienna"
+    },
+    {
+        "id": 48,
+        "nombre": "Andrés Ramírez",
+        "email": "andres.ramirez@example.com",
+        "roles": ["Administrador"],
+        "asignado": ""
+    },
+    {
+        "id": 49,
+        "nombre": "Jorge Rodríguez",
+        "email": "jorge.rodriguez@example.com",
+        "roles": ["Conductor"],
+        "asignado": "Ford Explorer"
+    },
+    {
+        "id": 50,
+        "nombre": "Elena Martínez",
+        "email": "elena.martinez@example.com",
+        "roles": ["Administrador", "Conductor"],
+        "asignado": "Nissan Murano"
+    },
+    {
+        "id": 51,
+        "nombre": "Juan García",
+        "email": "juan.garcia@example.com",
+        "roles": ["Administrador"],
+        "asignado": ""
+    },
+    {
+        "id": 52,
+        "nombre": "Carla Flores",
+        "email": "carla.flores@example.com",
+        "roles": ["Conductor"],
+        "asignado": "Tesla Model X"
+    },
+    {
+        "id": 53,
+        "nombre": "Esteban Rivera",
+        "email": "esteban.rivera@example.com",
+        "roles": ["Administrador"],
+        "asignado": ""
+    },
+    {
+        "id": 54,
+        "nombre": "Isabel Rojas",
+        "email": "isabel.rojas@example.com",
+        "roles": ["Conductor"],
+        "asignado": "BMW X5"
+    },
+    {
+        "id": 55,
+        "nombre": "Oscar Gutiérrez",
+        "email": "oscar.gutierrez@example.com",
+        "roles": ["Administrador"],
+        "asignado": ""
+    },
+    {
+        "id": 56,
+        "nombre": "Sandra Jiménez",
+        "email": "sandra.jimenez@example.com",
+        "roles": ["Conductor"],
+        "asignado": "Audi e-tron"
+    },
+    {
+        "id": 57,
+        "nombre": "Marta Ruiz",
+        "email": "marta.ruiz@example.com",
+        "roles": ["Administrador"],
+        "asignado": ""
+    },
+    {
+        "id": 58,
+        "nombre": "Ricardo Morales",
+        "email": "ricardo.morales@example.com",
+        "roles": ["Conductor"],
+        "asignado": "Tesla Model Y"
+    },
+    {
+        "id": 59,
+        "nombre": "Natalia Castro",
+        "email": "natalia.castro@example.com",
+        "roles": ["Administrador"],
+        "asignado": ""
+    },
+    {
+        "id": 60,
+        "nombre": "Adriana Salazar",
+        "email": "adriana.salazar@example.com",
+        "roles": ["Conductor"],
+        "asignado": "Hyundai Santa Fe"
+    },
+    {
+        "id": 61,
+        "nombre": "Jorge Martínez",
+        "email": "jorge.martinez@example.com",
+        "roles": ["Administrador"],
+        "asignado": ""
+    },
+    {
+        "id": 62,
+        "nombre": "Claudia González",
+        "email": "claudia.gonzalez@example.com",
+        "roles": ["Conductor"],
+        "asignado": "Jeep Grand Cherokee"
+    },
+    {
+        "id": 63,
+        "nombre": "Lucas Torres",
+        "email": "lucas.torres@example.com",
+        "roles": ["Administrador"],
+        "asignado": ""
+    },
+    {
+        "id": 64,
+        "nombre": "Fernanda López",
+        "email": "fernanda.lopez@example.com",
+        "roles": ["Conductor"],
+        "asignado": "Kia Soul"
+    },
+    {
+        "id": 65,
+        "nombre": "Samuel Sánchez",
+        "email": "samuel.sanchez@example.com",
+        "roles": ["Administrador"],
+        "asignado": ""
+    },
+    {
+        "id": 66,
+        "nombre": "Camila Ortiz",
+        "email": "camila.ortiz@example.com",
+        "roles": ["Conductor"],
+        "asignado": "Ford Mustang Mach-E"
+    },
+    {
+        "id": 67,
+        "nombre": "Lucas Ríos",
+        "email": "lucas.rios@example.com",
+        "roles": ["Administrador"],
+        "asignado": ""
+    },
+    {
+        "id": 68,
+        "nombre": "Isabel Martínez",
+        "email": "isabel.martinez@example.com",
+        "roles": ["Conductor"],
+        "asignado": "Toyota Highlander"
+    },
+    {
+        "id": 69,
+        "nombre": "Joaquín Rodríguez",
+        "email": "joaquin.rodriguez@example.com",
+        "roles": ["Administrador"],
+        "asignado": ""
+    },
+    {
+        "id": 70,
+        "nombre": "Julia Torres",
+        "email": "julia.torres@example.com",
+        "roles": ["Conductor"],
+        "asignado": "Chevrolet Traverse"
+    },
+    {
+        "id": 71,
+        "nombre": "Francisco González",
+        "email": "francisco.gonzalez@example.com",
+        "roles": ["Administrador"],
+        "asignado": ""
+    },
+    {
+        "id": 72,
+        "nombre": "Sara Fernández",
+        "email": "sara.fernandez@example.com",
+        "roles": ["Conductor"],
+        "asignado": "Hyundai Tucson"
+    },
+    {
+        "id": 73,
+        "nombre": "Jorge López",
+        "email": "jorge.lopez@example.com",
+        "roles": ["Administrador"],
+        "asignado": ""
+    },
+    {
+        "id": 74,
+        "nombre": "Valentina Pérez",
+        "email": "valentina.perez@example.com",
+        "roles": ["Conductor"],
+        "asignado": "Jeep Compass"
+    },
+    {
+        "id": 75,
+        "nombre": "Tomás González",
+        "email": "tomas.gonzalez@example.com",
+        "roles": ["Administrador"],
+        "asignado": ""
+    },
+    {
+        "id": 76,
+        "nombre": "Daniela Martínez",
+        "email": "daniela.martinez@example.com",
+        "roles": ["Conductor"],
+        "asignado": "Toyota Venza"
+    },
+    {
+        "id": 77,
+        "nombre": "Gabriel Castillo",
+        "email": "gabriel.castillo@example.com",
+        "roles": ["Administrador"],
+        "asignado": ""
+    },
+    {
+        "id": 78,
+        "nombre": "Florencia García",
+        "email": "florencia.garcia@example.com",
+        "roles": ["Conductor"],
+        "asignado": "Volkswagen Tiguan"
+    },
+    {
+        "id": 79,
+        "nombre": "Carlos Jiménez",
+        "email": "carlos.jimenez@example.com",
+        "roles": ["Administrador"],
+        "asignado": ""
+    },
+    {
+        "id": 80,
+        "nombre": "Natalia Ruiz",
+        "email": "natalia.ruiz@example.com",
+        "roles": ["Conductor"],
+        "asignado": "Ford Escape Hybrid"
+    },
+    {
+        "id": 81,
+        "nombre": "Sofía Rivera",
+        "email": "sofia.rivera@example.com",
+        "roles": ["Administrador"],
+        "asignado": ""
+    },
+    {
+        "id": 82,
+        "nombre": "Emilio Pérez",
+        "email": "emilio.perez@example.com",
+        "roles": ["Conductor"],
+        "asignado": "BMW X3"
+    },
+    {
+        "id": 83,
+        "nombre": "Martina Hernández",
+        "email": "martina.hernandez@example.com",
+        "roles": ["Administrador"],
+        "asignado": ""
+    },
+    {
+        "id": 84,
+        "nombre": "Nicolás González",
+        "email": "nicolas.gonzalez@example.com",
+        "roles": ["Conductor"],
+        "asignado": "Honda HR-V"
+    },
+    {
+        "id": 85,
+        "nombre": "Eduardo Ramírez",
+        "email": "eduardo.ramirez@example.com",
+        "roles": ["Administrador"],
+        "asignado": ""
+    },
+    {
+        "id": 86,
+        "nombre": "Isabella Gutiérrez",
+        "email": "isabella.gutierrez@example.com",
+        "roles": ["Conductor"],
+        "asignado": "Toyota Corolla Cross"
+    },
+    {
+        "id": 87,
+        "nombre": "Luis Moreno",
+        "email": "luis.moreno@example.com",
+        "roles": ["Administrador"],
+        "asignado": ""
+    },
+    {
+        "id": 88,
+        "nombre": "Andrea Rodríguez",
+        "email": "andrea.rodriguez@example.com",
+        "roles": ["Conductor"],
+        "asignado": "Ford Bronco"
+    },
+    {
+        "id": 89,
+        "nombre": "Gabriel Torres",
+        "email": "gabriel.torres@example.com",
+        "roles": ["Administrador"],
+        "asignado": ""
+    },
+    {
+        "id": 90,
+        "nombre": "Valentina Gómez",
+        "email": "valentina.gomez@example.com",
+        "roles": ["Conductor"],
+        "asignado": "Chevrolet Equinox"
+    },
+    {
+        "id": 91,
+        "nombre": "Mario Hernández",
+        "email": "mario.hernandez@example.com",
+        "roles": ["Administrador"],
+        "asignado": ""
+    },
+    {
+        "id": 92,
+        "nombre": "Lorena López",
+        "email": "lorena.lopez@example.com",
+        "roles": ["Conductor"],
+        "asignado": "Mazda CX-5"
+    },
+    {
+        "id": 93,
+        "nombre": "Enrique Morales",
+        "email": "enrique.morales@example.com",
+        "roles": ["Administrador"],
+        "asignado": ""
+    },
+    {
+        "id": 94,
+        "nombre": "Paula Ortiz",
+        "email": "paula.ortiz@example.com",
+        "roles": ["Conductor"],
+        "asignado": "Nissan Pathfinder"
+    },
+    {
+        "id": 95,
+        "nombre": "Miguel Jiménez",
+        "email": "miguel.jimenez@example.com",
+        "roles": ["Administrador"],
+        "asignado": ""
+    },
+    {
+        "id": 96,
+        "nombre": "Camila Rivas",
+        "email": "camila.rivas@example.com",
+        "roles": ["Conductor"],
+        "asignado": "Honda Passport"
+    },
+    {
+        "id": 97,
+        "nombre": "Diego Martínez",
+        "email": "diego.martinez@example.com",
+        "roles": ["Administrador"],
+        "asignado": ""
+    },
+    {
+        "id": 98,
+        "nombre": "Carla González",
+        "email": "carla.gonzalez@example.com",
+        "roles": ["Conductor"],
+        "asignado": "Volkswagen Atlas"
+    },
+    {
+        "id": 99,
+        "nombre": "Jorge Gutiérrez",
+        "email": "jorge.gutierrez@example.com",
+        "roles": ["Administrador"],
+        "asignado": ""
+    },
+    {
+        "id": 100,
+        "nombre": "Valeria Rodríguez",
+        "email": "valeria.rodriguez@example.com",
+        "roles": ["Conductor"],
+        "asignado": "Ford Edge"
+    }
+  ]
+  

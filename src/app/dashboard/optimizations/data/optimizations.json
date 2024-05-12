@@ -1,0 +1,107 @@
+[
+    {
+        "id": 1,
+        "vehiculo": "Hyundai Ioniq",
+        "stops": 12,
+        "fecha": "02/04/2024",
+        "estado": "Pendiente"
+    },
+    {
+        "id": 2,
+        "vehiculo": "Nissan Leaf",
+        "stops": 10,
+        "fecha": "13/04/2024",
+        "estado": "Completada"
+    },
+    {
+        "id": 3,
+        "vehiculo": "Toyota Prius",
+        "stops": 8,
+        "fecha": "15/04/2024",
+        "estado": "Pendiente"
+    },
+    {
+        "id": 4,
+        "vehiculo": "Tesla Model 3",
+        "stops": 15,
+        "fecha": "22/04/2024",
+        "estado": "En Ruta"
+    },
+    {
+        "id": 5,
+        "vehiculo": "Ford Mustang Mach-E",
+        "stops": 7,
+        "fecha": "25/04/2024",
+        "estado": "Pendiente"
+    },
+    {
+        "id": 6,
+        "vehiculo": "Volkswagen ID.4",
+        "stops": 11,
+        "fecha": "01/05/2024",
+        "estado": "Completada"
+    },
+    {
+        "id": 7,
+        "vehiculo": "Kia Soul EV",
+        "stops": 14,
+        "fecha": "02/05/2024",
+        "estado": "Pendiente"
+    },
+    {
+        "id": 8,
+        "vehiculo": "Chevrolet Bolt",
+        "stops": 9,
+        "fecha": "02/05/2024",
+        "estado": "En Ruta"
+    },
+    {
+        "id": 9,
+        "vehiculo": "Porsche Taycan",
+        "stops": 13,
+        "fecha": "03/05/2024",
+        "estado": "Pendiente"
+    },
+    {
+        "id": 10,
+        "vehiculo": "Rivian R1T",
+        "stops": 5,
+        "fecha": "04/05/2024",
+        "estado": "Completada"
+    },
+    {
+        "id": 11,
+        "vehiculo": "Citroen Berlingo",
+        "stops": 16,
+        "fecha": "04/05/2024",
+        "estado": "Pendiente"
+    },
+    {
+        "id": 12,
+        "vehiculo": "BMW i3",
+        "stops": 12,
+        "fecha": "04/05/2024",
+        "estado": "En Ruta"
+    },
+    {
+        "id": 13,
+        "vehiculo": "Hyundai Kona Electric",
+        "stops": 10,
+        "fecha": "04/05/2024",
+        "estado": "Pendiente"
+    },
+    {
+        "id": 14,
+        "vehiculo": "Fiat 500e",
+        "stops": 13,
+        "fecha": "04/05/2024",
+        "estado": "Completada"
+    },
+    {
+        "id": 15,
+        "vehiculo": "Chevrolet Bolt EUV",
+        "stops": 6,
+        "fecha": "04/05/2024",
+        "estado": "Pendiente"
+    }
+]

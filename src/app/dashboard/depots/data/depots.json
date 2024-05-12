@@ -1,0 +1,170 @@
+[
+    {
+        "id": 1,
+        "nombre": "Almacen Norte",
+        "direccion": "Cataluña 1685, 5300247 Osorno, Los Lagos, Chile",
+        "conductores": [
+            {
+                "id": 1,
+                "nombre": "Marcos Mendez",
+                "email": "marcos@gmail.com",
+                "roles": ["Conductor"],
+                "asignado": "Hyundai Ioniq"
+            },
+            {
+                "id": 2,
+                "nombre": "Cristobal Mancilla",
+                "email": "cristobal@gmail.com",
+                "roles": ["Conductor"],
+                "asignado": "Nissan Leaf"
+            },
+            {
+                "id": 3,
+                "nombre": "Juan Martinez",
+                "email": "juan.martinez@gmail.com",
+                "roles": ["Conductor"],
+                "asignado": "Citroen Berlingo"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "nombre": "Almacen Sur",
+        "direccion": "Andes 202, 8400000 Pudahuel, Santiago, Chile",
+        "conductores": [
+            {
+                "id": 4,
+                "nombre": "Juan Pérez",
+                "email": "juan@gmail.com",
+                "roles": ["Conductor"],
+                "asignado": "Toyota Prius"
+            },
+            {
+                "id": 5,
+                "nombre": "Carlos Gutiérrez",
+                "email": "carlos@gmail.com",
+                "roles": ["Conductor"],
+                "asignado": "Chevrolet Bolt"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "nombre": "Almacen Este",
+        "direccion": "Independencia 503, 7500000 Providencia, Santiago, Chile",
+        "conductores": [
+            {
+                "id": 7,
+                "nombre": "Ana Gómez",
+                "email": "ana@gmail.com",
+                "roles": ["Conductor"],
+                "asignado": "Nissan e-NV200"
+            },
+            {
+                "id": 8,
+                "nombre": "Roberto Sánchez",
+                "email": "roberto@gmail.com",
+                "roles": ["Conductor"],
+                "asignado": "Renault Kangoo"
+            },
+            {
+                "id": 9,
+                "nombre": "Lucía Torres",
+                "email": "lucia@gmail.com",
+                "roles": ["Conductor"],
+                "asignado": "BMW i3"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "nombre": "Almacen Oeste",
+        "direccion": "Victoria 1025, 1000000 Valparaíso, Chile",
+        "conductores": [
+            {
+                "id": 10,
+                "nombre": "Javier Morales",
+                "email": "javier@gmail.com",
+                "roles": ["Conductor"],
+                "asignado": "Tesla Model 3"
+            },
+            {
+                "id": 11,
+                "nombre": "Valeria Muñoz",
+                "email": "valeria@gmail.com",
+                "roles": ["Conductor"],
+                "asignado": "Ford Mustang Mach-E"
+            },
+            {
+                "id": 12,
+                "nombre": "Ignacio Reyes",
+                "email": "ignacio@gmail.com",
+                "roles": ["Conductor"],
+                "asignado": "Volkswagen ID.4"
+            },
+            {
+                "id": 6,
+                "nombre": "María Fernández",
+                "email": "maria@gmail.com",
+                "roles": ["Conductor"],
+                "asignado": "Kia Soul EV"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "nombre": "Almacen Central",
+        "direccion": "Parque 312, 7500000 Providencia, Santiago, Chile",
+        "conductores": [
+            {
+                "id": 13,
+                "nombre": "Beatriz Vega",
+                "email": "beatriz@gmail.com",
+                "roles": ["Conductor"],
+                "asignado": "Porsche Taycan"
+            },
+            {
+                "id": 14,
+                "nombre": "Mauricio Rojas",
+                "email": "mauricio@gmail.com",
+                "roles": ["Conductor"],
+                "asignado": "Hyundai Kona Electric"
+            },
+            {
+                "id": 15,
+                "nombre": "Paula Herrera",
+                "email": "paula@gmail.com",
+                "roles": ["Conductor"],
+                "asignado": "Fiat 500e"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "nombre": "Almacen Suroeste",
+        "direccion": "San Martín 204, 5367890 Osorno, Los Lagos, Chile",
+        "conductores": [
+            {
+                "id": 16,
+                "nombre": "Sebastián López",
+                "email": "sebastian@gmail.com",
+                "roles": ["Conductor"],
+                "asignado": "Chevrolet Bolt EUV"
+            },
+            {
+                "id": 17,
+                "nombre": "Lorena Castro",
+                "email": "lorena@gmail.com",
+                "roles": ["Conductor"],
+                "asignado": "Rivian R1T"
+            },
+            {
+                "id": 18,
+                "nombre": "Esteban Ortiz",
+                "email": "esteban@gmail.com",
+                "roles": ["Conductor"],
+                "asignado": "Polestar 2"
+            }
+        ]
+    }
+]
